@@ -1,0 +1,26 @@
+220121
+
+caniuse.com
+
+grid는 transition이 안된다는 단점
+
+https://blog.naver.com/jizig/222461816314  grid이론 설명 보기
+
+pdf 읽어봐
+
+
+푸터
+
+가장 겉에 오버레이 씌우고
+높이 잡지 말고
+텍스트 영역 전체 영역
+세부영역 (전체)
+영역 하나씩 두개로 잡기 flex
+타이틀 영역 
+li 50% 50% 패딩주기
+카피라이트 영역
+
+로고 빨간색은 필터줘서 흰색 변경 가능
+filter { brightness(0) invert(100%) }
+
+
